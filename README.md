@@ -18,7 +18,6 @@
 ## Requirements
 - Python 3
 
-
 ------
 
 ## How to Run
@@ -55,7 +54,8 @@ Select an option (1-5):
 - When you’re done, choose "Save and Exit" to store your data in transactions.txt.
 - On your next run, the program will auto-load your transactions that you saved previously.
 
-  
+-------
+
 ## Note
 - The transactions file (transactions.txt) will be created in the same folder as the Python script after you save your first transaction.
 - If you want to start fresh, simply delete the transactions.txt file.
