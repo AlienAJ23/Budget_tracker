@@ -29,8 +29,11 @@
 Open your terminal, navigate to the folder containing budget_tracker.py, then run:
 ```
 python budget_tracker.py
-(Use python3 instead of python on some systems, or py on Windows if the previous doesn't work.)
+or
+py budget_tracker.py
 ```
+(Use python3 instead of python on some systems, or py on Windows if the previous doesn't work.)
+
 4.Follow the Menu
 You'll see a menu like:
 ```
