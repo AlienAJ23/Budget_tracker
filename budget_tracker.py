@@ -14,7 +14,7 @@ class Transaction:
         return f"{self.trans_type}|{self.amount}|{self.category}|{self.notes}|{self.date}"
 
     @staticmethod
-    def from_line(line):
+    def from_line(line): #create transaction object line to line
         
         parts = line.strip().split('|')
         if len(parts) != 5:
